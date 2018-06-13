@@ -1,0 +1,8 @@
+28943147, Lennard Martin, M, 7, 9, 92.5
+28943143, Persona Seis, F, 7, 10, 72.5
+28943144, Persona Cinco, F, , 7, 50.5
+28943145, Mas Culino, M, 3, 10, 12.5
+28943146, Persona Uno, M, 7, 10, 60
+28943148, Persona Dos, F, 7, 10, 70
+28943142, Persona Tres, M, 7, 10, 35.2
+28943141, Persona Cuatro, M, 7, 10, 
